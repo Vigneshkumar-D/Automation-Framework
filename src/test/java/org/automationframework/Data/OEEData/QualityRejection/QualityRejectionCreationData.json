@@ -1,0 +1,14 @@
+[
+  {
+    "QualityReason": ""
+  },
+  {
+    "ExcelReportName": "Quality Rejection Creation",
+    "NumberOfInputFields": 1,
+    "MandatoryInputFields": 1,
+    "NonMandatoryInputFields": 0,
+    "QualityReason": "text",
+    "MandatoryField-QualityReason": "Quality Reason",
+    "ErrorMessage-QualityReason": "Please enter your Reason!"
+  }
+]

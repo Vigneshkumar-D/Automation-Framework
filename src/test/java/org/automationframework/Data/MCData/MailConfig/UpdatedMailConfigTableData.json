@@ -1,0 +1,12 @@
+[
+  {
+    "ExcelReportName": "Mail Configuration Table Data",
+    "SMTPServer": "",
+    "SMTPPort": "",
+    "AccountUser": "",
+    "AccountPassword": "",
+    "Authentication": "",
+    "EnableTLS": "",
+    "Status": "Active"
+  }
+]

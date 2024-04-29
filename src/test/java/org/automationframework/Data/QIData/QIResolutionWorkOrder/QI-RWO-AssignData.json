@@ -1,0 +1,22 @@
+[
+  {
+    "AssignedTo": "",
+    "Priority": "",
+    "DueDate": ""
+  },
+  {
+    "ExcelReportName": "PM Check Type Execution",
+    "NumberOfInputFields": 3,
+    "MandatoryInputFields": 3,
+    "NonMandatoryInputFields": 0,
+    "AssignedTo": "search",
+    "Priority": "search",
+    "DueDate": "text",
+    "MandatoryField-AssignedTo": "Assigned To",
+    "MandatoryField-Priority": "Priority",
+    "MandatoryField-DueDate": "Due Date",
+    "ErrorMessage-AssignedTo": "Please select the above field!",
+    "ErrorMessage-Priority": "Please Select Priority",
+    "ErrorMessage-DueDate": "Please select Due Date!"
+  }
+]

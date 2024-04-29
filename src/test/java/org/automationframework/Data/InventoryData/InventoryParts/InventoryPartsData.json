@@ -1,0 +1,34 @@
+[
+  {
+    "ItemName": "",
+    "ItemNo": "",
+    "Image": "",
+    "Description": "",
+    "Category": "",
+    "AssetFamily": "",
+    "Status": ""
+  },
+  {
+    "ExcelReportName": "Inventory Parts Creation",
+    "NumberOfInputFields": 8,
+    "MandatoryInputFields": 5,
+    "NonMandatoryInputFields": 2,
+    "ItemName": "text",
+    "ItemNo": "text",
+    "Image": "file",
+    "Description": "textarea",
+    "Category": "search",
+    "AssetFamily": "search",
+    "Status": "radio",
+    "MandatoryField-ItemName": "Item Name",
+    "MandatoryField-ItemNo": "Item No",
+    "MandatoryField-Description": "Description",
+    "MandatoryField-Category": "Category",
+    "MandatoryField-AssetFamily": "Asset Family",
+    "ErrorMessage-ItemName": "Please enter item Name!",
+    "ErrorMessage-ItemNo": "Please enter item number",
+    "ErrorMessage-Description": "Please enter the Description",
+    "ErrorMessage-Category": "Please select the Category",
+    "ErrorMessage-AssetFamily": "Please select the Asset Family"
+  }
+]

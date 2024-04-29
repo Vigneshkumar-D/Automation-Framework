@@ -1,0 +1,21 @@
+[
+  {
+    "ModelName": "",
+    "ModelNumber": "",
+    "Status": ""
+  },
+  {
+    "ExcelReportName": "MasterModelConfig Creation",
+    "NumberOfInputFields": 4,
+    "MandatoryInputFields": 2,
+    "NonMandatoryInputFields": 1,
+    "ModelName": "text",
+    "ModelNumber": "text",
+    "Status": "radio",
+    "MandatoryField-ModelName": "Model Name",
+    "MandatoryField-ModelNumber": "Model Number",
+    "ErrorMessage-ModelName": "Please entre your Name!",
+    "ErrorMessage-ModelNumber": "Please enter your Number!"
+  }
+]
+

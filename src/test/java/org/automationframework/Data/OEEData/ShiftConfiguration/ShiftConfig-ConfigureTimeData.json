@@ -1,0 +1,18 @@
+[
+  {
+    "SetName": "",
+    "Asset": ""
+  },
+  {
+    "ExcelReportName": "Configure Time",
+    "NumberOfInputFields": "",
+    "MandatoryInputFields": "",
+    "NonMandatoryInputFields":"",
+    "SetName": "text",
+    "Asset": "search",
+    "MandatoryField-SetName": "Set Name:",
+    "MandatoryField-Asset": "Asset:",
+    "ErrorMessage-SetName": "Please enter the Set Name",
+    "ErrorMessage-Asset": "Please select Asset"
+  }
+]

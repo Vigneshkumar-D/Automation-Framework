@@ -1,0 +1,16 @@
+[
+  {
+    "EnterTask": "",
+    "IdealCycleTimeInMinutes": "",
+    "UploadMedia": ""
+  },
+  {
+    "ExcelReportName": "Shift Creation",
+    "NumberOfInputFields": 3,
+    "MandatoryInputFields": 0,
+    "NonMandatoryInputFields": 0,
+    "EnterTask": "text",
+    "IdealCycleTimeInMinutes": "text",
+    "UploadMedia": "file"
+  }
+]

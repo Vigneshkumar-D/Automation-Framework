@@ -1,0 +1,19 @@
+[
+  {
+    "ExistingCheckType": "",
+    "CheckType": "",
+    "Description": "",
+    "Status": ""
+  },
+  {
+    "ExcelReportName": "PM Check Type Creation",
+    "NumberOfInputFields": 4,
+    "MandatoryInputFields": 1,
+    "NonMandatoryInputFields": 2,
+    "CheckType": "search",
+    "Description": "textarea",
+    "Status": "radio",
+    "MandatoryField-CheckType": "Check Type",
+    "ErrorMessage-CheckType": "Please enter the Check Type Name!"
+  }
+]

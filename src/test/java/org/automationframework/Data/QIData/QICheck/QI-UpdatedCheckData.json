@@ -1,0 +1,27 @@
+[
+  {
+    "ExistingCheckName": "",
+    "CheckName": "",
+    "CheckType": "",
+    "Description": "",
+    "Priority": "",
+    "Status": ""
+  },
+  {
+    "ExcelReportName": "Inventory Category Creation",
+    "NumberOfInputFields": 6,
+    "MandatoryInputFields": 3,
+    "NonMandatoryInputFields": 2,
+    "CheckName": "text",
+    "Description": "textarea",
+    "CheckType": "search",
+    "Priority": "search",
+    "Status": "radio",
+    "MandatoryField-CheckName": "Category Name",
+    "MandatoryField-CheckType": "Check Type",
+    "MandatoryField-Priority": "Priority",
+    "ErrorMessage-CheckName": "Please enter the Check Name!",
+    "ErrorMessage-CheckType": "Please select the Check Type!",
+    "ErrorMessage-Priority": "Please select the Priority!"
+  }
+]

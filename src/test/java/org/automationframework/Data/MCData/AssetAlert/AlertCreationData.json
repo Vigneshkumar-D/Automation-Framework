@@ -1,0 +1,34 @@
+[
+  {
+    "Parameter Name": "",
+    "Alert Name": "",
+    "Description": "",
+    "Priority": "",
+    "Notification Type": "",
+    "Condition": ""
+
+
+
+  },
+  {
+    "ExcelReportName": "AssetAlert Creation",
+    "NumberOfInputFields": 4,
+    "MandatoryInputFields": 4,
+    "NonMandatoryInputFields": 1,
+    "Parameter Name": "search",
+    "Alert Name": "text",
+    "Description": "textarea",
+    "Priority": "Number",
+    "Notification Type": "checkbox",
+    "Condition": "search",
+    "MandatoryField-Parameter Name": "Parameter Name",
+    "MandatoryField-Alert Name": "Alert Name",
+    "MandatoryField-Priority": "Priority",
+    "MandatoryField-Notification Type": "Notification Type",
+    "ErrorMessage-Parameter Name": "Please input Parameter Name!",
+    "ErrorMessage-Alert Name": "Please input Alert Name!",
+    "ErrorMessage-Priority": "Please select the priority",
+    "ErrorMessage-Notification Type": "Please select the notification type"
+
+  }
+]

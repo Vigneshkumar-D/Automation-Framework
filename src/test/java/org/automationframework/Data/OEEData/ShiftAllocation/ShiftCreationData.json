@@ -1,0 +1,26 @@
+[
+  {
+    "ShiftName": "",
+    "ShiftDuration(Mins)": "",
+    "Description": "",
+    "Duration": ""
+  },
+  {
+    "ExcelReportName": "Shift Creation",
+    "NumberOfInputFields": 4,
+    "MandatoryInputFields": 4,
+    "NonMandatoryInputFields": 0,
+    "ShiftName": "text",
+    "ShiftDuration(Mins)": "text",
+    "Description": "text",
+    "Duration": "number",
+    "MandatoryField-ShiftName": "Shift Name",
+    "MandatoryField-ShiftDuration(Mins)": "Shift Duration (Mins)",
+    "MandatoryField-Description": "Description",
+    "MandatoryField-Duration": "Duration",
+    "ErrorMessage-ShiftName": "Please enter your shift name!",
+    "ErrorMessage-ShiftDuration(Mins)": "Please enter your shift duration mins!",
+    "ErrorMessage-Description": "Enter Description",
+    "ErrorMessage-Duration": "Enter Break Duration"
+  }
+]

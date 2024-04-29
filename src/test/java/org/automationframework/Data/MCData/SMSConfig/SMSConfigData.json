@@ -1,0 +1,24 @@
+[
+  {
+    "AccountSID": "",
+    "AuthID": "",
+    "TwilioNumber": "",
+    "Status": "Active"
+  },
+  {
+    "ExcelReportName": "SMS Configuration",
+    "NumberOfInputFields": 5,
+    "MandatoryInputFields": 3,
+    "NonMandatoryInputFields": 1,
+    "AccountSID": "text",
+    "AuthID": "text",
+    "TwilioNumber": "text",
+    "Status": "radio",
+    "MandatoryField-AccountSID": "Account SID",
+    "MandatoryField-AuthID": "Auth ID",
+    "MandatoryField-AccountUser": "TwilioNumber",
+    "ErrorMessage-AccountSID": "Please enter your Account SID!",
+    "ErrorMessage-AuthID": "Please enter your Auth ID!",
+    "ErrorMessage-TwilioNumber": "Please enter your Twilio Number!"
+  }
+]

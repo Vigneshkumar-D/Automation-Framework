@@ -1,0 +1,19 @@
+[
+  {
+    "ExistingLocationName": "Washington DC",
+    "Name": "Chicago",
+    "Under": "USA",
+    "Status": "Active"
+  },
+  {
+    "ExcelReportName": "Location Report",
+    "NumberOfInputFields": 4,
+    "MandatoryInputFields": 1,
+    "NonMandatoryInputFields": 2,
+    "Name": "text",
+    "Under": "search",
+    "Status": "radio",
+    "MandatoryField-Name": "Name",
+    "ErrorMessage-UserName": "Please enter name"
+  }
+]

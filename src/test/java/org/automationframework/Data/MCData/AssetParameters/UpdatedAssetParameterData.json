@@ -1,0 +1,29 @@
+[
+  {
+    "ExistingEntityName":"",
+    "ParameterName": "",
+    "DisplayName": "",
+    "Description": "textarea",
+    "Unit": "text",
+    "DataType" : "",
+    "DefaultValue": ""
+  },
+  {
+    "ExcelReportName": "Asset Parameters Creation",
+    "NumberOfInputFields": 5,
+    "MandatoryInputFields": 1,
+    "NonMandatoryInputFields": 4,
+    "ParameterName": "text",
+    "DisplayName": "text",
+    "Description": "textarea",
+    "Unit": "text",
+    "DataType" : "search",
+    "DefaultValue": "text",
+    "MandatoryField-ParameterName": "Parameter name",
+    "MandatoryField-Location": "Location",
+    "MandatoryField-Mode": "Mode",
+    "ErrorMessage-Name": "Please Enter Name",
+    "ErrorMessage-Location": "Please enter Location",
+    "ErrorMessage-Mode": "Please Enter Mode"
+  }
+]

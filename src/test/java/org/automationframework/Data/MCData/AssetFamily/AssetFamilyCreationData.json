@@ -1,0 +1,21 @@
+[
+  {
+    "AssetFamily": "",
+    "Description": "",
+    "Status": ""
+
+  },
+  {
+    "ExcelReportName": "AssetFamily Creation",
+    "NumberOfInputFields": 2,
+    "MandatoryInputFields": 1,
+    "NonMandatoryInputFields": 1,
+    "AssetFamily": "text",
+    "Description": "textarea",
+    "Status": "radio",
+    "MandatoryField-AssetFamily": "Asset Family",
+    "ErrorMessage-AssetFamily": "Please enter your asset family!"
+
+
+  }
+]

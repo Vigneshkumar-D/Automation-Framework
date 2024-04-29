@@ -1,0 +1,37 @@
+[
+  {
+    "Asset": "",
+    "Hierarchy": "",
+    "ModelName": "",
+    "ProgramName": "",
+    "ProductCode": "",
+    "CycleTime(mins)": "",
+    "Description": ""
+  },
+  {
+    "ExcelReportName": "ModelConfig Creation",
+    "NumberOfInputFields": 7,
+    "MandatoryInputFields": 6,
+    "NonMandatoryInputFields": 1,
+    "Asset": "search",
+    "Hierarchy": "search",
+    "ModelName": "search",
+    "ProgramName": "text",
+    "ProductCode": "text",
+    "CycleTime(mins)": "text",
+    "Description": "textarea",
+    "MandatoryField-Asset": "Asset",
+    "MandatoryField-Hierarchy": "Hierarchy",
+    "MandatoryField-ModelName": "Model Name",
+    "MandatoryField-ProgramName": "Program Name",
+    "MandatoryField-ProductCode": "Product Code",
+    "MandatoryField-CycleTime(mins)": "Cycle Time (mins)",
+    "ErrorMessage-Asset": "Please select the asset!",
+    "ErrorMessage-Hierarchy": "Please select the Hierarchy!",
+    "ErrorMessage-ModelName": "Please select the Model Name!",
+    "ErrorMessage-ProgramName": "Please enter the Program Name!",
+    "ErrorMessage-ProductCode": "Please Enter the Product Code!",
+    "ErrorMessage-CycleTime(mins)": "Please enter your Cycle Time (mins)!"
+  }
+]
+

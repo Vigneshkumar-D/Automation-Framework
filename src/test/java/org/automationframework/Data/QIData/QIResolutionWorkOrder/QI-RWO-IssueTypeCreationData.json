@@ -1,0 +1,24 @@
+[
+  {
+    "IssueTypeName": "",
+    "Parent": "",
+    "Priority": "",
+    "Description": "",
+    "Status": ""
+  },
+  {
+    "ExcelReportName": "PM RWO Issue Type Creation",
+    "NumberOfInputFields": 6,
+    "MandatoryInputFields": 2,
+    "NonMandatoryInputFields": 4,
+    "IssueTypeName": "text",
+    "Parent": "search",
+    "Priority": "search",
+    "Description": "textarea",
+    "Status": "radi",
+    "MandatoryField-IssueTypeName": "Issue Type Name",
+    "MandatoryField-Priority": "Priority",
+    "ErrorMessage-IssueTypeName": "Please Enter the Issue Type",
+    "ErrorMessage-Priority": "Please Select Priority"
+  }
+]

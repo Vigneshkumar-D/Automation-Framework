@@ -1,0 +1,34 @@
+[
+  {
+    "MaintenanceType": "",
+    "AssetName": "",
+    "Priority": "",
+    "MachineStatus": "",
+    "Description": "",
+    "Comment": "",
+    "Image": ""
+  },
+  {
+    "ExcelReportName": "PM Check Type Creation",
+    "NumberOfInputFields": 7,
+    "MandatoryInputFields": 5,
+    "NonMandatoryInputFields": 2,
+    "MaintenanceType": "search",
+    "AssetName": "search",
+    "Priority": "search",
+    "MachineStatus": "search",
+    "Description": "textarea",
+    "Comment": "textarea",
+    "Image": "file",
+    "MandatoryField-MaintenanceType": "Maintenance Type",
+    "MandatoryField-AssetName": "Asset Name",
+    "MandatoryField-Priority": "Priority",
+    "MandatoryField-MachineStatus": "Machine Status",
+    "MandatoryField-Description": "Description",
+    "ErrorMessage-MaintenanceType": "Please Select the Maintenance Type",
+    "ErrorMessage-AssetName": "Please Select Asset",
+    "ErrorMessage-Priority": "Please Select Priority",
+    "ErrorMessage-MachineStatus": "Select The Machine Status",
+    "ErrorMessage-Description": "Enter Description"
+  }
+]

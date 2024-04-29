@@ -1,0 +1,22 @@
+[
+  {
+    "ChecklistName": "",
+    "AssetName": "",
+    "Description": "",
+    "Status": ""
+  },
+  {
+    "ExcelReportName": "PM Check Type Creation",
+    "NumberOfInputFields": 5,
+    "MandatoryInputFields": 2,
+    "NonMandatoryInputFields": 2,
+    "ChecklistName": "text",
+    "AssetName": "search",
+    "Description": "textarea",
+    "Status": "radio",
+    "MandatoryField-ChecklistName": "Checklist Name",
+    "MandatoryField-AssetName": "Asset Name",
+    "ErrorMessage-ChecklistName": "Please enter the Checklist Name!",
+    "ErrorMessage-AssetName": "Please select an Asset Name!"
+  }
+]

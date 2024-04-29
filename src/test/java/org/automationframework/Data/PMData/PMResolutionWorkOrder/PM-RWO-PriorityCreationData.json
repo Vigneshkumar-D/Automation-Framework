@@ -1,0 +1,24 @@
+[
+  {
+    "PrioritySet": "",
+    "PrioritySetValues": "",
+    "DisplayName": "",
+    "Colors": "",
+    "Description": "",
+    "Status": ""
+  },
+  {
+    "ExcelReportName": "PM RWO Priority Creation",
+    "NumberOfInputFields": 7,
+    "MandatoryInputFields": 1,
+    "NonMandatoryInputFields": 6,
+    "PrioritySet": "text",
+    "PrioritySetValues": "search",
+    "Description": "textarea",
+    "Status": "radio",
+    "DisplayName": "text",
+    "Colors": "search",
+    "MandatoryField-PrioritySet": "PrioritySet",
+    "ErrorMessage-PrioritySet": "Please Enter the Priority Set"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "UserName": "Test User 2",
+    "Role": "Technician",
+    "Email": "testuser1@maxbytetech.com",
+    "MobileNo": "9876543210",
+    "Password": "testuser@123",
+    "Site": "BFAL",
+    "Status": "Inactive"
+  },
+  {
+    "ExcelReportName": "User Creation",
+    "NumberOfInputFields": 7,
+    "MandatoryInputFields": 5,
+    "NonMandatoryInputFields": 1,
+    "UserName": "text",
+    "Role": "search",
+    "E-mail": "email",
+    "MobileNo.": "text",
+    "Password": "text",
+    "Site": "search",
+    "Status": "radio",
+    "MandatoryField-UserName": "User Name",
+    "MandatoryField-Role": "Role",
+    "MandatoryField-Email": "E-mail",
+    "MandatoryField-MobileNo": "Mobile No.",
+    "MandatoryField-Password": "Password",
+    "MandatoryField-Site": "Site",
+    "ErrorMessage-UserName": "Please enter your user!",
+    "ErrorMessage-Role": "Please select role!",
+    "ErrorMessage-Email": "Please enter your e-mail id!",
+    "ErrorMessage-MobileNo": "Please enter your mobile no!",
+    "ErrorMessage-Password": "Please enter your password!",
+    "ErrorMessage-Site": "Please select customer"
+  }
+]

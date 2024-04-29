@@ -1,0 +1,34 @@
+[
+  {
+    "AssetName": "",
+    "Entity": "",
+    "AssetFamily": "",
+    "Category": "",
+    "Status": "",
+    "Description": "",
+    "Image" : ""
+
+  },
+  {
+    "ExcelReportName": "Asset Creation",
+    "NumberOfInputFields": 4,
+    "MandatoryInputFields": 4,
+    "NonMandatoryInputFields": 1,
+    "AssetName": "text",
+    "Entity": "search",
+    "AssetFamily": "search",
+    "Category": "radio",
+    "Status": "radio",
+    "Description": "textarea",
+    "Image": "file",
+    "MandatoryField-AssetName": "Asset Name",
+    "MandatoryField-Entity": "Entity",
+    "MandatoryField-AssetFamily": "Asset Family",
+    "MandatoryField-Category": "Category",
+    "ErrorMessage-AssetName": "Please input the AssetName",
+    "ErrorMessage-Entity": "Please Select Entity",
+    "ErrorMessage-AssetFamily": "Please select asset family",
+    "ErrorMessage-Category": "Please Select Category"
+
+  }
+]

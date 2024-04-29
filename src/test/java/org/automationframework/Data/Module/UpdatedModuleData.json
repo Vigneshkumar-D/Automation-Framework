@@ -1,0 +1,19 @@
+[
+  {
+    "ExistingEntityName": "",
+    "Entity": "",
+    "ModuleSelection": "",
+    "Status": "Active"
+  },
+  {
+    "ExcelReportName": "Module Creation",
+    "NumberOfInputFields": 4,
+    "MandatoryInputFields": 2,
+    "NonMandatoryInputFields": 1,
+    "Entity": "search",
+    "ModuleSection": "search",
+    "Status": "radio",
+    "MandatoryField-Name": "Please Select Entity ",
+    "MandatoryField-ModuleSelection": "Please Select Module"
+  }
+]

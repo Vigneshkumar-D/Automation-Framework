@@ -1,0 +1,18 @@
+[
+  {
+    "CategoryName": "",
+    "Description": "",
+    "Status": ""
+  },
+  {
+    "ExcelReportName": "Inventory Category Creation",
+    "NumberOfInputFields": 4,
+    "MandatoryInputFields": 1,
+    "NonMandatoryInputFields": 2,
+    "CategoryName": "text",
+    "Description": "textarea",
+    "Status": "radio",
+    "MandatoryField-CategoryName": "Category Name",
+    "ErrorMessage-UserName": "Please enter your category name!"
+  }
+]

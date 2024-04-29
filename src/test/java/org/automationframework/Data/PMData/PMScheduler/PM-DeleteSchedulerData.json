@@ -1,0 +1,19 @@
+[
+  {
+    "ExcelReportName": "PM Scheduler Deletion",
+    "AssignedTo": "",
+    "Assert": "",
+    "ConfirmationStatus": "Yes"
+  },
+  {
+    "Assert": "CNC Milling Machine",
+    "CheckList": "Daily Checklist",
+    "Frequency": "Daily",
+    "AssignedToUser": "Gowtham Perumal",
+    "StartDate": "25-01-2024",
+    "EndDate": "25-01-2024",
+    "StartTime": "12:00:00",
+    "EndTime": "13:00:00",
+    "Description": "CNC Milling Machine Scheduler"
+  }
+]

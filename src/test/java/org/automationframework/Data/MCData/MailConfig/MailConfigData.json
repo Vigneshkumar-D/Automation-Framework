@@ -1,0 +1,32 @@
+[
+  {
+    "SMTPServer": "",
+    "SMTPPort": "",
+    "AccountUser": "",
+    "AccountPassword": "",
+    "Authentication": "",
+    "EnableTLS": "",
+    "Status": "Active"
+  },
+  {
+    "ExcelReportName": "Email Configuration",
+    "NumberOfInputFields": 8,
+    "MandatoryInputFields": 4,
+    "NonMandatoryInputFields": 3,
+    "SMTPServer": "text",
+    "SMTPPort": "text",
+    "AccountUse": "text",
+    "AccountPassword": "password",
+    "Authentication": "checkbox",
+    "EnableTLS": "checkbox",
+    "Status": "radio",
+    "MandatoryField-SMTPServer": "SMTP Server",
+    "MandatoryField-SMTPPort": "SMTP Port",
+    "MandatoryField-AccountUser": "Account User",
+    "MandatoryField-AccountPassword": "Account Password",
+    "ErrorMessage-SMTPServer": "Please enter the SmtpServer Name!",
+    "ErrorMessage-SMTPPort": "Please enter the SMTP port!",
+    "ErrorMessage-AccountUse": "Please enter the UserName!",
+    "ErrorMessage-AccountPassword": "Please enter the Account Password!"
+  }
+]

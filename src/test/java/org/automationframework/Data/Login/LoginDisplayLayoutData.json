@@ -1,0 +1,11 @@
+{
+  "ScreenInfo": {
+   "ReportName": "Login Display Layout"
+  },
+  "ElementXpath": {
+    "Xpath-AppLogo": "//img[@alt='logo']",
+    "Xpath-UserName": "//input[@id='basic_userName']",
+    "Xpath-Password": "//input[@id='basic_password']",
+    "Xpath-LoginButton": "//span[normalize-space()='Login']"
+  }
+}

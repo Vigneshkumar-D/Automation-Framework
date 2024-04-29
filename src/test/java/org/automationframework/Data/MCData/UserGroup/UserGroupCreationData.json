@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "",
+    "Description": "",
+    "Entity": "",
+    "User1": "",
+    "User2": "",
+    "User3": "",
+    "Status": ""
+  },
+  {
+    "ExcelReportName": "User Group Creation",
+    "NumberOfInputFields": 4,
+    "MandatoryInputFields": 2,
+    "NonMandatoryInputFields": 2,
+    "Name": "text",
+    "Description": "text",
+    "Entity": "search",
+    "SelectUsers": "search",
+    "Status": "radio",
+    "MandatoryField-Name": "Name",
+    "MandatoryField-Entity": "Entity",
+    "ErrorMessage-Name": "Please enter the user group name!",
+    "ErrorMessage-Entity": "Please select customer"
+  }
+]

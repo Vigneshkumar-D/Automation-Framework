@@ -1,0 +1,24 @@
+[
+  {
+    "ShowInventoryRequest": "",
+    "RootCauseAnalysis": "",
+    "CorrectiveAction": "",
+    "PreventiveAction": ""
+  },
+  {
+    "ExcelReportName": "PM Check Type Execution",
+    "NumberOfInputFields": 4,
+    "MandatoryInputFields": 3,
+    "NonMandatoryInputFields": 1,
+    "ShowInventoryRequest": "checkbox",
+    "RootCauseAnalysis": "textarea",
+    "CorrectiveAction": "textarea",
+    "PreventiveAction": "textarea",
+    "MandatoryField-RootCauseAnalysis": "Root Cause Analysis",
+    "MandatoryField-CorrectiveAction": "Corrective Action",
+    "MandatoryField-PreventiveAction": "PreventiveAction",
+    "ErrorMessage-RootCauseAnalysis": "Please enter the Root Cause!",
+    "ErrorMessage-CorrectiveAction": "Please select the Corrective Action!",
+    "ErrorMessage-PreventiveAction": "Please enter the Preventive Action!"
+  }
+]

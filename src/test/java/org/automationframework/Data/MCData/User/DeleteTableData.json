@@ -1,0 +1,16 @@
+[
+    {
+      "ExcelReportName": "User Data Deletion",
+      "UserName": "",
+      "ConfirmationStatus": "Yes"
+    },
+    {
+      "UserName": "",
+      "Role": "Technician",
+      "Email": "testuser1@maxbytetech.com",
+      "MobileNo": "9876543210",
+      "Password": "testuser@123",
+      "Site": "BFAL",
+      "Status": "Active"
+    }
+]

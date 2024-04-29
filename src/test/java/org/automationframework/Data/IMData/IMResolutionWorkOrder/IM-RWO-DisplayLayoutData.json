@@ -1,0 +1,11 @@
+{
+  "ScreenInfo": {
+    "ReportName": "IM RWO Display Layout"
+  },
+  "ElementXpath": {
+    "Xpath-AppLogo": "",
+    "Xpath-UserName": "",
+    "Xpath-Password": "",
+    "Xpath-LoginButton": ""
+  }
+}

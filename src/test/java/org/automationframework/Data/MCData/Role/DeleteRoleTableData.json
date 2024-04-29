@@ -1,0 +1,11 @@
+[
+  {
+    "ExcelReportName": "Role Data Deletion",
+    "RoleName": "",
+    "ConfirmationStatus": ""
+  },
+  {
+    "RoleName": "Manager",
+    "Status": "Active"
+  }
+]

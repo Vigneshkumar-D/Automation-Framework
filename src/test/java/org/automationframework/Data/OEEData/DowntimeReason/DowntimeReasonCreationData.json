@@ -1,0 +1,21 @@
+[
+  {
+    "Reason": "",
+    "Parent": "",
+    "Colour": ""
+
+  },
+  {
+    "ExcelReportName": "DowntimeReason Creation",
+    "NumberOfInputFields": 3,
+    "MandatoryInputFields": 2,
+    "NonMandatoryInputFields": 1,
+    "Reason": "text",
+    "Parent": "search",
+    "Colour": "text",
+    "MandatoryField-Reason": "Reason",
+    "MandatoryField-Color": "Color",
+    "ErrorMessage-Reason": "Please enter your Reason!",
+    "ErrorMessage-Color": "Please enter your Color!"
+  }
+]

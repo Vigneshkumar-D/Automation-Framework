@@ -1,0 +1,46 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Selenium Tests">
+    <listeners>
+        <listener class-name="org.automationframework.TestComponents.CustomListeners"/>
+    </listeners>
+    <test name="Main">
+        <classes>
+            <class name="org.automationframework.TestComponents.BaseTest">
+                <methods>
+                    <include name="setUp"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test name="Login Test">
+        <classes>
+            <class name="org.automationframework.Tests.LoginTest">
+                <methods>
+                    <include name="testLogin"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+<!--    <test name="Configuration Test">-->
+<!--        <classes>-->
+<!--            <class name="org.automationframework.Tests.UserManagementTest">-->
+<!--                <methods>-->
+<!--                    <include name="testCreateUser" />-->
+<!--                    <include name="testCreateEntity" />-->
+<!--                    <include name="testUpdateUser" />-->
+<!--                    <include name="testDeleteTableData" />-->
+<!--                </methods>-->
+<!--            </class>-->
+<!--        </classes>-->
+<!--    </test>-->
+    <test name="Inventory Test">
+        <classes>
+            <class name="org.automationframework.Tests.InventoryTest">
+                <methods>
+<!--                    <include name="testCreateInventoryPart" />-->
+                    <include name="testCreateChecklist" />
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,16 @@
+[
+  {
+    "RoleName": "Manager",
+    "Status": "Active"
+  },
+  {
+    "ExcelReportName": "Role Creation",
+    "NumberOfInputFields": 1,
+    "MandatoryInputFields": 1,
+    "NonMandatoryInputFields": 0,
+    "RoleName": "text",
+    "Status": "radio",
+    "MandatoryField-RoleName": "Role Name",
+    "ErrorMessage-RoleName": "Please enter your role name!"
+  }
+]

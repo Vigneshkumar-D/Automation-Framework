@@ -1,0 +1,18 @@
+[
+  {
+    "Title": "",
+    "Process/Operation": "",
+    "Description": ""
+  },
+  {
+    "ExcelReportName": "Config-BasicDetails Creation",
+    "NumberOfInputFields": 3,
+    "MandatoryInputFields": 1,
+    "NonMandatoryInputFields": 2,
+    "Title": "text",
+    "Process/Operation": "search",
+    "Description": "textarea",
+    "MandatoryField-Title": "Title",
+    "ErrorMessage-ShiftName": "Please enter Title"
+  }
+]

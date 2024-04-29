@@ -1,0 +1,18 @@
+[
+  {
+    "SetName": "",
+    "Asset": ""
+  },
+  {
+    "ExcelReportName": "Shift Creation",
+    "NumberOfInputFields": 2,
+    "MandatoryInputFields": 2,
+    "NonMandatoryInputFields": 0,
+    "SetName": "text",
+    "Asset": "search",
+    "MandatoryField-SetName": "Set Name:",
+    "MandatoryField-Asset": "Asset:",
+    "ErrorMessage-SetName": "Please enter the Set Name",
+    "ErrorMessage-Asset": "Please select Asset"
+  }
+]

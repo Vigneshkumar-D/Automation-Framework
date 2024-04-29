@@ -1,0 +1,26 @@
+[
+  {
+    "ExistingEntityName": "Washington DC",
+    "Name": "",
+    "Under": "",
+    "Location": "Chicago",
+    "Mode": "Organization",
+    "Status": "Active"
+  },
+  {
+    "ExcelReportName": "Entity Creation",
+    "NumberOfInputFields": 6,
+    "MandatoryInputFields": 3,
+    "NonMandatoryInputFields": 2,
+    "Name": "text",
+    "Under": "search",
+    "Location": "search",
+    "Status": "radio",
+    "MandatoryField-Name": "Name",
+    "MandatoryField-Location": "Location",
+    "MandatoryField-Mode": "Mode",
+    "ErrorMessage-Name": "Please Enter Name",
+    "ErrorMessage-Location": "Please enter Location",
+    "ErrorMessage-Mode": "Please Enter Mode"
+  }
+]

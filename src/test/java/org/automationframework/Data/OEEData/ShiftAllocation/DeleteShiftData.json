@@ -1,0 +1,13 @@
+[
+  {
+    "ExcelReportName": "Shift Deletion",
+    "ShiftName": "",
+    "ConfirmationStatus": "Yes"
+  },
+  {
+    "ShiftName": "",
+    "ShiftDuration(mins)": "",
+    "BreakDuration(mins)": "",
+    "Break Details": ""
+  }
+]
